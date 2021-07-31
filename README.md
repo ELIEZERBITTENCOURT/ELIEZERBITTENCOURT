@@ -1,16 +1,13 @@
-### Hi there 👋
+#Hi, I'm Eliezer 👋
 
-<!--
-**ELIEZERBITTENCOURT/ELIEZERBITTENCOURT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ELIEZERBITTENCOURT)](https://github.com/ELIEZERBITTENCOURT)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/eliezerbittencourt/)](www.linkedin.com/in/eliezerbittencourt/)
 
-Here are some ideas to get you started:
+### About me
+I'm a developer JR - JavaScript | NodeJS | ReactJS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Information Systems at Estácio and advanced JavaScript development at Digital Innovation One.
+- 👨🏼‍🏫 I have technical knowledge in Node.JS, React.JS, Git and more.
+
+
+
