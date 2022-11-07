@@ -9,8 +9,7 @@
 
 - :house_with_garden: I’m from Brazil.
 - :computer: I'm a developer JR - JavaScript | NodeJS | ReactJS.
-- :books: I am graduate from Information Systems at Estácio and advanced JavaScript development at Digital Innovation One.
-- 👨🏼‍🏫 I have technical knowledge in Node.JS, React.JS, Git and more.
+- :books: I am graduate from Information Systems at Estácio and Front End Software Engineer at Globo.
 
 
 <code><img height= "20" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
