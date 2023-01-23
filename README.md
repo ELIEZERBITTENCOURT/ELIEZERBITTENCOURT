@@ -8,7 +8,7 @@
 
 
 - :house_with_garden: I’m from Brazil.
-- :computer: I'm a developer JR - JavaScript | NodeJS | ReactJS.
+- :computer: I'm a developer JR - JavaScript | NodeJS | ReactJS | SQL.
 - :books: I am graduate from Information Systems at Estácio.
 
 
