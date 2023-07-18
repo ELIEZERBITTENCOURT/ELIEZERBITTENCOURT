@@ -8,8 +8,8 @@
 
 
 - :house_with_garden: I’m from Brazil.
-- :computer: I'm a developer JR - JavaScript | NodeJS | ReactJS | SQL.
-- :books: I am graduate from Information Systems at Estácio.
+- :computer: I'm a developer - JavaScript | NodeJS | ReactJS
+- :books: I am graduate from Information Systems
 
 
 <code><img height= "20" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
