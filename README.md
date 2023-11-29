@@ -7,7 +7,7 @@
 ### About me
 
 
-- :house_with_garden: I’m from Brazil.
+- :house_with_garden: I’m from Brazil. Rio de Janeiro/RJ
 - :computer: I'm a developer - JavaScript | NodeJS | ReactJS
 - :books: I am graduate from Information Systems
 
