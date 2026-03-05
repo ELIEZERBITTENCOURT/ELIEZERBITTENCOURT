@@ -29,6 +29,7 @@ Hello! I'm a **Full Stack Developer** living in Rio de Janeiro, Brazil, with a d
 |---------|-------------|-------|-----------|
 | Landing Page Portfolio | Responsive personal portfolio website developed with modern React architecture, focused on performance, clean UI and best practices. | React | [View Project →](https://eliezerbittencourt.github.io/lp-portfolio-react/) |
 | Marketing Landing Page | High-conversion marketing landing page built with React, emphasizing user experience, visual hierarchy and responsive design. | React | [View Project →](https://devcraft-virid.vercel.app/) |
+| Landing Page FitZone | Modern and responsive landing page for a gym, developed in React with a dark theme and an electric yellow accent palette. | React | [View Project →](https://lp-fitzone-react.vercel.app/) |
 
 ---
 
