@@ -4,7 +4,6 @@
 ### Full Stack Developer | Brazil 🇧🇷
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliezerbittencourt/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
 
@@ -14,10 +13,10 @@
 
 Hello! I'm a **Full Stack Developer** living in Rio de Janeiro, Brazil, with a degree in **Information Systems** since 2022. I'm passionate about building robust and scalable applications, with solid experience in both backend and frontend development.
 
--  Graduate in **Information Systems**
--  Based in **Rio de Janeiro, RJ — Brazil**
--  Focused on **Java/Spring Boot** backend and **React** frontend
--  Reach me at: [LinkedIn](https://www.linkedin.com/in/eliezerbittencourt/)
+- Graduate in **Information Systems**
+- Based in **Rio de Janeiro, RJ — Brazil**
+- Focused on **Java/Spring Boot**, **Node.js** backend and **React** frontend
+- Reach me at: [LinkedIn](https://www.linkedin.com/in/eliezerbittencourt/)
 
 ---
 
@@ -38,6 +37,8 @@ Hello! I'm a **Full Stack Developer** living in Rio de Janeiro, Brazil, with a d
 ### Backend
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
