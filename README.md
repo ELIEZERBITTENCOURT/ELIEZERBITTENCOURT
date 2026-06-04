@@ -1,9 +1,10 @@
 <div align="center">
 
 # Eliézer Bittencourt
-### Full Stack Developer | Brazil 🇧🇷
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliezerbittencourt/)
+### Data Engineer | Python | SQL | ETL | Data Pipelines | Brazil 🇧🇷
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/eliezerbittencourt/)
 
 </div>
 
@@ -11,51 +12,63 @@
 
 ## About Me
 
-Hello! I'm a **Full Stack Developer** living in Rio de Janeiro, Brazil, with a degree in **Information Systems** since 2022. I'm passionate about building robust and scalable applications, with solid experience in both backend and frontend development.
+Hello! I'm a **Data Engineer** based in Rio de Janeiro, Brazil, with a degree in **Information Systems**.
 
-- Graduate in **Information Systems**
-- Based in **Rio de Janeiro, RJ — Brazil**
-- Focused on **Java/Spring Boot**, **Node.js** backend and **React** frontend
-- Reach me at: [LinkedIn](https://www.linkedin.com/in/eliezerbittencourt/)
+My professional background is rooted in software development, where I gained experience building APIs, backend services, database-driven applications, and system integrations. This experience provided me with a strong foundation in software architecture, scalability, and data management.
+
+Currently, I am focused on **Data Engineering**, developing skills and projects involving:
+
+* Data Pipelines
+* ETL/ELT Processes
+* Python for Data Engineering
+* SQL and Database Optimization
+* Data Modeling
+* Data Warehousing
+* Cloud Data Solutions
+* Data Integration and Automation
+
+My goal is to design and build reliable, scalable, and efficient data platforms that transform raw data into valuable business insights.
+
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/eliezerbittencourt/)
 
 ---
 
-## Live Projects
+## Data Engineering Stack
 
-> Projects currently deployed and running in production.
+### Programming & Data Processing
 
-| Project | Description | Stack | Live Demo |
-|---------|-------------|-------|-----------|
-| Landing Page Portfolio | Responsive personal portfolio website developed with modern React architecture, focused on performance, clean UI and best practices. | React | [View Project →](https://eliezerbittencourt.github.io/lp-portfolio-react/) |
-| Marketing Landing Page | High-conversion marketing landing page built with React, emphasizing user experience, visual hierarchy and responsive design. | React | [View Project →](https://devcraft-virid.vercel.app/) |
-| Landing Page FitZone | Modern and responsive landing page for a gym, developed in React with a dark theme and an electric yellow accent palette. | React | [View Project →](https://lp-fitzone-react.vercel.app/) |
-| Validator BarCode | System Barcode Vault in responsive React | React | [View Project →](https://validator-barcode.vercel.app/) |
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-## Tech Stack
+### Databases
 
-### Backend
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+### Data Engineering & Analytics
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
 ### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## Current Learning Journey
+
+* Data Engineering Fundamentals
+* Python for Data Engineering
+* ETL and ELT Pipelines
+* Data Warehousing
+* Apache Spark
+* Cloud Data Platforms
+* Data Architecture
 
 ---
 
@@ -63,7 +76,7 @@ Hello! I'm a **Full Stack Developer** living in Rio de Janeiro, Brazil, with a d
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eliezerbittencourt&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eliezerbittencourt\&theme=tokyonight\&hide_border=true)
 
 </div>
 
@@ -71,8 +84,8 @@ Hello! I'm a **Full Stack Developer** living in Rio de Janeiro, Brazil, with a d
 
 <div align="center">
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=eliezerbittencourt&icon=6&color=6)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=eliezerbittencourt\&icon=6\&color=6)](https://visitcount.itsvg.in)
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+*"Turning data into reliable and scalable solutions."*
 
 </div>
